@@ -1,4 +1,4 @@
-baseurl                 = "https://example.com/"
+baseurl                 = "https://andrewgeovannizavala.com/"
 DefaultContentLanguage  = "en"
 title                   = "Travel Blog"
 theme = "hugo-future-imperfect-slim"
